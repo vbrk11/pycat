@@ -16,7 +16,7 @@ Python *3.13.3*
 **Usage:**
 
 ```bash
-python3 pypaw.py
+python3 pycat.py
 ```
 
 ### Credits
