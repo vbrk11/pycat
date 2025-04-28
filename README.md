@@ -24,6 +24,9 @@ python3 pycat.py
 https://github.com/vbrk11
 ```
 
+### TODO ⚒️:
+- Implement commands (-e, -E, -A)
+
 ### Contributions 🎉
 ###### Please feel free to contribute however you'd like 😁
 
